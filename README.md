@@ -27,7 +27,7 @@
 
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
 ---
 Languages and Tools 🛠 
 

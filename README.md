@@ -5,12 +5,15 @@
 
 <p align="center">
   <em>
-    Hello, I am Harshit Agarwal a <b>pre-final year</b> undergraduate from <a href="https://jecrcfoundation.com/"> <b>Jaipur Engineering College and Research Centre (JECRC)</a></b>, Jaipur
+    Hello, I am <b>Harshit Agarwal</b> a pre-final year undergraduate from <a href="https://jecrcfoundation.com/"> <b>Jaipur Engineering College and Research Centre (JECRC)</a></b>, Jaipur
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <!-- <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> -->
+      <b><i align="center">
+    Thought : "Life is full of choices…choose wisely!”</i></b>
+      <!-- <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> -->
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />

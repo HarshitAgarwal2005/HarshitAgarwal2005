@@ -81,10 +81,28 @@ Languages and Tools 🛠
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
 ---
 </br>
-<h2 align="left">⚙️ GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-| ![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitAgarwal2005&show_icons=true&theme=tokyonight) | ![Harshit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitAgarwal2005&theme=tokyonight) |
-| --- | --- |
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=HarshitAgarwal2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+          alt="GitHub Stats"
+          height="180"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitAgarwal2005&theme=tokyonight"
+          alt="GitHub Streak"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 <p align="center">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshitAgarwal2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
